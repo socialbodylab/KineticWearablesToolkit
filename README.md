@@ -23,7 +23,8 @@ These designs make up a wearable electronics toolkit for electronically animatin
 Above: Some elements of the toolkit. Black arrows illustrate direction of movement.
 
 ## Servo 90 Degree
-![Servo 90 Degree](./Servo 90 deg v3.jpg)
+
+![Servo 90 Degree](./servo-90-degree.jpg)
 
 * Using a common 9g micro servo motor
 * Pivots in base add support for higher loads
@@ -32,7 +33,16 @@ Above: Some elements of the toolkit. Black arrows illustrate direction of moveme
 
 
 ## Servo Flex Base
-![Servo Flex Base](./Screen Shot 2020-03-31 at 3.09.09 PM.jpg)
+
+![Servo Flex Base](./micro-servo-flex.jpg)
+
+* 9g micro servo motor is attached using M2 bolts
+* 3D printable in TPU or other flexible material. We use Ninjaflex.
+* Attaches with pin/slot in a fixed position or can be mounted with a strap
+
+## Servo Flex Tilt Base
+
+![Servo Flex Tilt Base](./micro-servo-flex-tilt.jpg)
 
 * 9g micro servo motor can be installed in multiple orientations, without tools
 * 3D printable in TPU or other flexible material. We use Ninjaflex.
@@ -40,9 +50,10 @@ Above: Some elements of the toolkit. Black arrows illustrate direction of moveme
 
 
 ## Servo Linear Adaptor
-![Linear adaptor with rail](./Servo linear adapter with rail - tire not shown.jpg)
 
-![Linear adaptor with ring](./Servo linear adapter with ring.jpg)
+![Example Image](./servo-linear-with-rail.jpg)
+
+![Linear adaptor with ring](./servo-linear-with-ring.jpg)
 
 * 9g micro servo motor drives a wheel which drives a rail of any length.
 * Rail can be curved as shown in first image above
@@ -54,7 +65,11 @@ Above: Some elements of the toolkit. Black arrows illustrate direction of moveme
 * Base uses pin/slot to attach to fabric.
 
 ## Micro Stepper Motor
-![Micro stepper motor](./micro stepper rotobrooch.jpg)
+
+![Micro stepper motor](./micro-stepper.jpg)
+
+![Micro stepper motor back](./micro-stepper-back.jpg)
+
 
 * Uses small x27.168 stepper motor
 * Attaches to cloth using lapel pin (not shown)
@@ -62,6 +77,7 @@ Above: Some elements of the toolkit. Black arrows illustrate direction of moveme
 * Suitable for very light loads only
 
 ## Solenoid
+
 ![Solenoid](./Solenoid v3.jpg)
 
 * Uses small 5V solenoid (e.g. https://www.digikey.ca/product-detail/en/sparkfun-electronics/ROB-11015/1568-1592-ND/6163694)
