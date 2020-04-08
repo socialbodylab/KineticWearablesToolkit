@@ -78,7 +78,7 @@ Above: Some elements of the toolkit. Black arrows illustrate direction of moveme
 
 ## Solenoid
 
-![Solenoid](./Solenoid v3.jpg)
+![Solenoid](./solenoid.jpg)
 
 * Uses small 5V solenoid (e.g. https://www.digikey.ca/product-detail/en/sparkfun-electronics/ROB-11015/1568-1592-ND/6163694)
 * Soloid is press fit in either mount, flat or 90 degree.
