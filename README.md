@@ -9,6 +9,7 @@
 * [Servo Linear Adaptor](#servo-linear-adaptor)
 * [Micro Stepper Motor](#micro-stepper-motor)
 * [Solenoid](#solenoid)
+* [BOM](#bill-of-materials)
 * [Status](#status)
 * [License](#license)
 * [Contact](#contact)
@@ -85,6 +86,41 @@ Above: Some elements of the toolkit. Black arrows illustrate direction of moveme
 * Mount is 3D printable in TPU or other flexible material.
 * We recommend 3D printing (FDM) with square aperture of each part facing up to avoid the need for support structures.
 * Be mindful of heat buildup if solenoid is energized at a high duty cycle.
+
+
+## Bill of Materials
+This bill of materials is shown in the photo "Complete Toolkit.jpg". The stepper motor can be made to work without the stepper motor driver featherwing shown.
+
+|  **Fabricated parts:** |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  Part/Assembly | Qty | Material |  |  |
+|  Micro servo flex base | 1 | TPU/Ninjaflex |  |  |
+|  Micro servo flex tilt base | 1 | TPU/Ninjaflex |  |  |
+|  micro stepper rotobrooch | 1 | PLA |  |  |
+|  Servo 90 deg base | 1 | TPU/Ninjaflex |  |  |
+|  Solenoid v3 (both parts) | 1 | TPU/Ninjaflex |  |  |
+|  Servo linear adaptor | 1 | TPU/Ninjaflex and PLA |  |  |
+|  Servo linear rail (various sizes available) | 1 | PLA |  |  |
+|   |  |  |  |  |
+|   |  |  |  |  |
+|  **Purchased parts:** |  |  |  |  |
+|   |  |  |  |  |
+|  Part | Qty | Price/ea | Supplier | Link |
+|  Gauge stepper motors | 1 | $31.99 for 6pcs | Amazon.ca | https://www.amazon.ca/Dromedary-Stepper-Speedometer-Instrument-Cluster/dp/B0759KTMFD/ref=pd_sbs_263_t_0/144-8892975-8369744?_encoding=UTF8&pd_rd_i=B0759KTMFD&pd_rd_r=fdcf2d0b-94cb-46ba-a4cf-2a807ee53c33&pd_rd_w=m43Oy&pd_rd_wg=Zf0XD&pf_rd_p=9926bb69-42b9-46e4-b788-f665992e326d&pf_rd_r=C48209XGPAC0VSNZBS1Z&psc=1&refRID=C48209XGPAC0VSNZBS1Z |
+|  Pull solenoid 5V | 1 | $8.95 | Creatron | https://www.creatroninc.com/product/5v-mini-pull-type-solenoid/?search_query=5V+solenoid&results=1 |
+|  180 degree servo | 1 | $9.50 |  |  |
+|  Full rotation servo | 1 | $10.50 | Creatron | https://www.creatroninc.com/product/full-rotation-micro-servo-motor-15kgcm/ |
+|  Motor featherwing | 1 | $35.55 | Creatron | https://www.creatroninc.com/product/4-channel-motor-featherwing-12a/?search_query=TB6612&results=4 |
+|  Small stepper motor | 1 | 19.99 | Amazon.ca | https://www.amazon.ca/Degree-Bipolar-Stepper-15-6oz-Printer/dp/B071DD8XT7/ref=pd_sbs_60_2/144-8892975-8369744?_encoding=UTF8&pd_rd_i=B071DD8XT7&pd_rd_r=b4966d28-7fe6-437f-82f2-49fc942c1dc3&pd_rd_w=N2Ol4&pd_rd_wg=IGLQH&pf_rd_p=c7838c3c-6de6-46ad-946c-b7318af714fb&pf_rd_r=GGTRCG404WN1R3AHKCF8&psc=1&refRID=GGTRCG404WN1R3AHKCF8#customerReviews |
+|  M2x0.4 bolt x 10mm (SHCS or BHCS) | 8 | $9.95 for kit | amazon.ca | https://www.amazon.ca/dp/B06ZXSPFHR/ref=cm_sw_em_r_mt_dp_U_-gfREbF5NERRE |
+|  Rubber grommet |  | $19.39 for kit | amazon.ca | https://www.amazon.ca/dp/B01MU0UN0Y/ref=cm_sw_r_tw_dp_U_x_BkfREb57RG5AE |
+|   |  |  |  |  |
+|   |  |  |  |  |
+|  **Not included (but may be needed for full build)** |  |  |  |  |
+|  LiPoly battery |  |  |  |  |
+|  Arduino microcontroller |  |  |  |  |
+|  Hookup wire |  |  |  |  |
+|  Velcro One Wrap strap |  |  |  | https://www.amazon.ca/dp/B000LNSSVY/ref=cm_sw_em_r_mt_dp_U_DQRVEb3AQRF3D |
 
 ## Status
 Project is: _released_
