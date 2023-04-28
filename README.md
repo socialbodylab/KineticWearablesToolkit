@@ -59,7 +59,7 @@ Above: Some elements of the toolkit. Black arrows illustrate direction of moveme
 * 9g micro servo motor drives a wheel which drives a rail of any length.
 * Rail can be curved as shown in first image above
 * Rail can be straight as shown in second image above
-* Flexible tire is not included in the CAD model above. We used a rubber grommet, e.g. http://en.wikipedia.org/wiki/Image:Rubbergrommets.jpg
+* Flexible tire is not included in the CAD model above. We used a rubber grommet.
 * As with Servo Flex Base above, servo can be 180 degree or continuous type motor.
 * Linear adaptor is 3D printable in PLA or other rigid material.
 * Linear adaptor bolts to flexible base in one of two orientations.
@@ -72,10 +72,10 @@ Above: Some elements of the toolkit. Black arrows illustrate direction of moveme
 ![Micro stepper motor back](./micro-stepper-back.jpg)
 
 
-* Uses small x27.168 stepper motor
+* Uses small x27.168 stepper motor (Switec X 27 series)
 * Attaches to cloth using lapel pin (not shown)
 * 3D printable in PLA or other rigid material
-* Suitable for very light loads only
+* Suitable for moving very light loads only
 
 ## Solenoid
 
@@ -106,21 +106,20 @@ This bill of materials is shown in the photo "Complete Toolkit.jpg". The stepper
 |  **Purchased parts:** |  |  |  |  |
 |   |  |  |  |  |
 |  Part | Qty | Price/ea | Supplier | Link |
-|  Gauge stepper motors | 1 | $31.99 for 6pcs | Amazon.ca | https://www.amazon.ca/Dromedary-Stepper-Speedometer-Instrument-Cluster/dp/B0759KTMFD/ref=pd_sbs_263_t_0/144-8892975-8369744?_encoding=UTF8&pd_rd_i=B0759KTMFD&pd_rd_r=fdcf2d0b-94cb-46ba-a4cf-2a807ee53c33&pd_rd_w=m43Oy&pd_rd_wg=Zf0XD&pf_rd_p=9926bb69-42b9-46e4-b788-f665992e326d&pf_rd_r=C48209XGPAC0VSNZBS1Z&psc=1&refRID=C48209XGPAC0VSNZBS1Z |
-|  Pull solenoid 5V | 1 | $8.95 | Creatron | https://www.creatroninc.com/product/5v-mini-pull-type-solenoid/?search_query=5V+solenoid&results=1 |
-|  180 degree servo | 1 | $9.50 |  |  |
-|  Full rotation servo | 1 | $10.50 | Creatron | https://www.creatroninc.com/product/full-rotation-micro-servo-motor-15kgcm/ |
-|  Motor featherwing | 1 | $35.55 | Creatron | https://www.creatroninc.com/product/4-channel-motor-featherwing-12a/?search_query=TB6612&results=4 |
-|  Small stepper motor | 1 | 19.99 | Amazon.ca | https://www.amazon.ca/Degree-Bipolar-Stepper-15-6oz-Printer/dp/B071DD8XT7/ref=pd_sbs_60_2/144-8892975-8369744?_encoding=UTF8&pd_rd_i=B071DD8XT7&pd_rd_r=b4966d28-7fe6-437f-82f2-49fc942c1dc3&pd_rd_w=N2Ol4&pd_rd_wg=IGLQH&pf_rd_p=c7838c3c-6de6-46ad-946c-b7318af714fb&pf_rd_r=GGTRCG404WN1R3AHKCF8&psc=1&refRID=GGTRCG404WN1R3AHKCF8#customerReviews |
-|  M2x0.4 bolt x 10mm (SHCS or BHCS) | 8 | $9.95 for kit | amazon.ca | https://www.amazon.ca/dp/B06ZXSPFHR/ref=cm_sw_em_r_mt_dp_U_-gfREbF5NERRE |
-|  Rubber grommet |  | $19.39 for kit | amazon.ca | https://www.amazon.ca/dp/B01MU0UN0Y/ref=cm_sw_r_tw_dp_U_x_BkfREb57RG5AE |
+| Gauge stepper motor | 1 | $4.99/ea  | Tanin Auto Electronix | https://www.taninautoelectronix.com/product/x27-168-switec-juken-gm-gmc-chevrolet-stepper-motor/ |
+|   | 1 | $19.99 with optional breakout board | Tindie | https://www.tindie.com/products/TheRengineer/analog-gauge-stepper-breakout-board |
+|  Pull solenoid 5V | 1 | $5.50 | Digikey/Sparkfun | https://www.digikey.com/en/products/detail/sparkfun-electronics/ROB-11015/6163694 |
+|  180 degree servo | 1 | $5.00 | Digikey/DF Robotics | https://www.digikey.com/en/products/detail/dfrobot/SER0049/13280116  |
+|  Full rotation servo | 1 | $7.50 | Digikey/Adafruit Industries | https://www.digikey.com/en/products/detail/adafruit-industries-llc/2442/5774227 |
+|  M2x0.4 bolt x 10mm (SHCS or BHCS) | 10 | $0.08/ea | Fastenal | https://www.fastenal.com/product/details/0134599 |
+|  3/8"ID x 5/8"OD Black Rubber Grommet |  | $0.52/ea | Fastenal | https://www.fastenal.com/product/details/11120335 |
 |   |  |  |  |  |
 |   |  |  |  |  |
 |  **Not included (but may be needed for full build)** |  |  |  |  |
 |  LiPoly battery |  |  |  |  |
 |  Arduino microcontroller |  |  |  |  |
 |  Hookup wire |  |  |  |  |
-|  Velcro One Wrap strap |  |  |  | https://www.amazon.ca/dp/B000LNSSVY/ref=cm_sw_em_r_mt_dp_U_DQRVEb3AQRF3D |
+|  Velcro® Brand Self-Grip Straps - 3⁄4" x 75' |  | $37/75 feet | Uline | https://www.uline.com/Product/ProductDetailRootItem?modelnumber=S-8136 |
 
 ## Status
 Project is: _released_
